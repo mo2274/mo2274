@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abo Raia</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [SolidSample](https://github.com/mo2274/SolidSample)
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
